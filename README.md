@@ -17,3 +17,5 @@ The **Resume Ranker** is a machine learning-based application designed to evalua
 - **Pandas** 🏗️ (Data processing)  
 - **Scikit-learn** 🤖 (ML-based ranking)  
 
+## 📸 Website Demo 
+![Image](https://github.com/user-attachments/assets/519db9d7-e7c1-4338-9087-056f20fbf833)
